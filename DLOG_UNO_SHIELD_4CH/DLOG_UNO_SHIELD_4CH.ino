@@ -173,7 +173,7 @@ DataLog.print(now.second());
 DataLog.print(",");
 DataLog.print("Aref= 4960mV"); //put the value of Aref used for the sampling of the data
 DataLog.print(",");
-DataLog.println("64 sps (15.625[mSps]"); //verify the sampling rate for the data recorded during this istance. 
+DataLog.println("64 sps (15.625[mS] btw samples)"); //verify the sampling rate for the data recorded during this istance. 
 DataLog.print("A0");DataLog.print(",");
 DataLog.print("A1");DataLog.print(",");
 DataLog.print("A2");DataLog.print(",");
